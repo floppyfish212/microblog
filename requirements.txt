@@ -91,7 +91,7 @@ python-editor==0.4
 python-pam==1.8.2
 pytz==2018.4
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 redis==2.10.6
 reportbug==7.1.10
 requests==2.18.4
