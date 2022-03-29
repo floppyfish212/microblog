@@ -57,7 +57,7 @@ mock==2.0.0
 msgpack==0.5.6
 numpy==1.13.3
 olefile==0.45.1
-paramiko==2.4.0
+paramiko==2.10.1
 passlib==1.7.1
 pathtools==0.1.2
 pbr==4.0.2
