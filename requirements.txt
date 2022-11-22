@@ -61,7 +61,7 @@ paramiko==2.4.0
 passlib==1.7.1
 pathtools==0.1.2
 pbr==4.0.2
-Pillow==4.3.0
+Pillow==9.3.0
 pluginbase==0.5
 promise==1.0.1
 prompt-toolkit==1.0.15
